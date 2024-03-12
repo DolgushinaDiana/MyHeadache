@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\didi_\\Documents\\MyHeadache\\c\u002B\u002B\\lab_0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDD408A-564A-446C-A092-23CE0BE7C7E8}|lab_0\\lab_0.vcxproj|C:\\Users\\didi_\\Documents\\MyHeadache\\c\u002B\u002B\\lab_0\\lab_0\\Box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFDD408A-564A-446C-A092-23CE0BE7C7E8}|lab_0\\lab_0.vcxproj|solutionrelative:lab_0\\Box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDD408A-564A-446C-A092-23CE0BE7C7E8}|lab_0\\lab_0.vcxproj|C:\\Users\\didi_\\Documents\\MyHeadache\\c\u002B\u002B\\lab_0\\lab_0\\Box.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFDD408A-564A-446C-A092-23CE0BE7C7E8}|lab_0\\lab_0.vcxproj|solutionrelative:lab_0\\Box.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDD408A-564A-446C-A092-23CE0BE7C7E8}|lab_0\\lab_0.vcxproj|C:\\Users\\didi_\\Documents\\MyHeadache\\c\u002B\u002B\\lab_0\\lab_0\\Conteiner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFDD408A-564A-446C-A092-23CE0BE7C7E8}|lab_0\\lab_0.vcxproj|solutionrelative:lab_0\\Conteiner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDD408A-564A-446C-A092-23CE0BE7C7E8}|lab_0\\lab_0.vcxproj|C:\\Users\\didi_\\Documents\\MyHeadache\\c\u002B\u002B\\lab_0\\lab_0\\lab_0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFDD408A-564A-446C-A092-23CE0BE7C7E8}|lab_0\\lab_0.vcxproj|solutionrelative:lab_0\\lab_0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDD408A-564A-446C-A092-23CE0BE7C7E8}|lab_0\\lab_0.vcxproj|C:\\Users\\didi_\\Documents\\MyHeadache\\c\u002B\u002B\\lab_0\\lab_0\\Conteiner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFDD408A-564A-446C-A092-23CE0BE7C7E8}|lab_0\\lab_0.vcxproj|solutionrelative:lab_0\\Conteiner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conteiner.h",
+              "DocumentMoniker": "C:\\Users\\didi_\\Documents\\MyHeadache\\c\u002B\u002B\\lab_0\\lab_0\\Conteiner.h",
+              "RelativeDocumentMoniker": "lab_0\\Conteiner.h",
+              "ToolTip": "C:\\Users\\didi_\\Documents\\MyHeadache\\c\u002B\u002B\\lab_0\\lab_0\\Conteiner.h",
+              "RelativeToolTip": "lab_0\\Conteiner.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-10T07:17:15.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Box.h",
+              "DocumentMoniker": "C:\\Users\\didi_\\Documents\\MyHeadache\\c\u002B\u002B\\lab_0\\lab_0\\Box.h",
+              "RelativeDocumentMoniker": "lab_0\\Box.h",
+              "ToolTip": "C:\\Users\\didi_\\Documents\\MyHeadache\\c\u002B\u002B\\lab_0\\lab_0\\Box.h",
+              "RelativeToolTip": "lab_0\\Box.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAAArwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-10T07:17:14.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Box.cpp",
+              "DocumentMoniker": "C:\\Users\\didi_\\Documents\\MyHeadache\\c\u002B\u002B\\lab_0\\lab_0\\Box.cpp",
+              "RelativeDocumentMoniker": "lab_0\\Box.cpp",
+              "ToolTip": "C:\\Users\\didi_\\Documents\\MyHeadache\\c\u002B\u002B\\lab_0\\lab_0\\Box.cpp",
+              "RelativeToolTip": "lab_0\\Box.cpp",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-08T17:44:23.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conteiner.cpp",
+              "DocumentMoniker": "C:\\Users\\didi_\\Documents\\MyHeadache\\c\u002B\u002B\\lab_0\\lab_0\\Conteiner.cpp",
+              "RelativeDocumentMoniker": "lab_0\\Conteiner.cpp",
+              "ToolTip": "C:\\Users\\didi_\\Documents\\MyHeadache\\c\u002B\u002B\\lab_0\\lab_0\\Conteiner.cpp",
+              "RelativeToolTip": "lab_0\\Conteiner.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAAArwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-08T08:35:20.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lab_0.cpp",
+              "DocumentMoniker": "C:\\Users\\didi_\\Documents\\MyHeadache\\c\u002B\u002B\\lab_0\\lab_0\\lab_0.cpp",
+              "RelativeDocumentMoniker": "lab_0\\lab_0.cpp",
+              "ToolTip": "C:\\Users\\didi_\\Documents\\MyHeadache\\c\u002B\u002B\\lab_0\\lab_0\\lab_0.cpp",
+              "RelativeToolTip": "lab_0\\lab_0.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAArwCoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T10:45:30.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

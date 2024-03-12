@@ -1,0 +1,334 @@
+﻿  Box.cpp
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+  (компиляция исходного файла "Box.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Box.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,10): error C2473: operator <<: выглядит как определение функции, но без списка параметров.
+  (компиляция исходного файла "Box.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Box.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,30): error C2065: out: необъявленный идентификатор
+  (компиляция исходного файла "Box.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,40): error C2065: cn: необъявленный идентификатор
+  (компиляция исходного файла "Box.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,35): error C2275: "Box": ожидается выражение вместо типа
+  (компиляция исходного файла "Box.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,20): error C2440: инициализация: невозможно преобразовать "initializer list" в "int &"
+  (компиляция исходного файла "Box.cpp")
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,20):
+  Тип ссылки не может инициализироваться значением
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+  (компиляция исходного файла "Box.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Box.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,10): error C2473: operator >>: выглядит как определение функции, но без списка параметров.
+  (компиляция исходного файла "Box.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Box.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,30): error C2065: in: необъявленный идентификатор
+  (компиляция исходного файла "Box.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,39): error C2065: b: необъявленный идентификатор
+  (компиляция исходного файла "Box.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,34): error C2275: "Box": ожидается выражение вместо типа
+  (компиляция исходного файла "Box.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,20): error C2440: инициализация: невозможно преобразовать "initializer list" в "int &"
+  (компиляция исходного файла "Box.cpp")
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,20):
+  Тип ссылки не может инициализироваться значением
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(11,1): error C2011: Box: переопределение типа "struct"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(2,8):
+   см. объявление "Box"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(27,7): error C2027: использование неопределенного типа "Box"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(2,8):
+   см. объявление "Box"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(27,19): error C2027: использование неопределенного типа "Box"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(2,8):
+   см. объявление "Box"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(28,7): error C2027: использование неопределенного типа "Box"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(2,8):
+   см. объявление "Box"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(28,18): error C2027: использование неопределенного типа "Box"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(2,8):
+   см. объявление "Box"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(29,7): error C2027: использование неопределенного типа "Box"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(2,8):
+   см. объявление "Box"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(29,18): error C2027: использование неопределенного типа "Box"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(2,8):
+   см. объявление "Box"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(30,7): error C2027: использование неопределенного типа "Box"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(2,8):
+   см. объявление "Box"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(30,18): error C2027: использование неопределенного типа "Box"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(2,8):
+   см. объявление "Box"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(31,7): error C2027: использование неопределенного типа "Box"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(2,8):
+   см. объявление "Box"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(31,19): error C2027: использование неопределенного типа "Box"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(2,8):
+   см. объявление "Box"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(34,1): error C2872: ostream: неоднозначный символ
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,1):
+  может быть "int ostream"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\iosfwd(237,19):
+  или       "std::ostream"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(34,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(34,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(34,1): error C2086: int ostream: переопределение
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,1):
+   см. объявление "ostream"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(34,21): error C2872: ostream: неоднозначный символ
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,1):
+  может быть "int ostream"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\iosfwd(237,19):
+  или       "std::ostream"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(34,10): error C2473: operator <<: выглядит как определение функции, но без списка параметров.
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(34,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(34,10): error C2374: <<: переопределение; множественная инициализация
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,10):
+   см. объявление "<<"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(34,30): error C2065: out: необъявленный идентификатор
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(34,40): error C2065: cn: необъявленный идентификатор
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(34,35): error C2275: "Box": ожидается выражение вместо типа
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(34,44): error C2059: синтаксическая ошибка: {
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(34,44): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(34,44): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(37,1): error C2872: istream: неоднозначный символ
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,1):
+  может быть "int istream"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\iosfwd(236,19):
+  или       "std::istream"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(37,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(37,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(37,1): error C2086: int istream: переопределение
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,1):
+   см. объявление "istream"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(37,21): error C2872: istream: неоднозначный символ
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,1):
+  может быть "int istream"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\iosfwd(236,19):
+  или       "std::istream"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(37,10): error C2473: operator >>: выглядит как определение функции, но без списка параметров.
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(37,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(37,10): error C2374: >>: переопределение; множественная инициализация
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,10):
+   см. объявление ">>"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(37,30): error C2065: in: необъявленный идентификатор
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(37,39): error C2065: b: необъявленный идентификатор
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(37,34): error C2275: "Box": ожидается выражение вместо типа
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(37,42): error C2059: синтаксическая ошибка: {
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(37,42): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(37,42): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(50,13): error C2027: использование неопределенного типа "Box"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(2,8):
+   см. объявление "Box"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(59,12): error C2027: использование неопределенного типа "Box"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(2,8):
+   см. объявление "Box"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(59,27): error C2027: использование неопределенного типа "Box"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(2,8):
+   см. объявление "Box"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(59,42): error C2027: использование неопределенного типа "Box"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(2,8):
+   см. объявление "Box"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(70,3): error C2872: <<: неоднозначный символ
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,10):
+  может быть "int &<<"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(70,3):
+  или       "<<"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.cpp(70,19): error C1907: не удается восстановить после предыдущих ошибок; остановка компиляции
+  Conteiner.cpp
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Conteiner.h(8,6): error C3646: getBoxes: неизвестный спецификатор переопределения
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Conteiner.h(8,14): error C2059: синтаксическая ошибка: (
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Conteiner.h(8,16): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Conteiner.h(9,6): error C3646: getBox: неизвестный спецификатор переопределения
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Conteiner.h(9,12): error C2059: синтаксическая ошибка: (
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Conteiner.h(9,20): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,10): error C2473: operator <<: выглядит как определение функции, но без списка параметров.
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,30): error C2065: out: необъявленный идентификатор
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,40): error C2065: cn: необъявленный идентификатор
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,35): error C2275: "Box": ожидается выражение вместо типа
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,20): error C2440: инициализация: невозможно преобразовать "initializer list" в "int &"
+  (компиляция исходного файла "Conteiner.cpp")
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,20):
+  Тип ссылки не может инициализироваться значением
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,10): error C2473: operator >>: выглядит как определение функции, но без списка параметров.
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,30): error C2065: in: необъявленный идентификатор
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,39): error C2065: b: необъявленный идентификатор
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,34): error C2275: "Box": ожидается выражение вместо типа
+  (компиляция исходного файла "Conteiner.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,20): error C2440: инициализация: невозможно преобразовать "initializer list" в "int &"
+  (компиляция исходного файла "Conteiner.cpp")
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,20):
+  Тип ссылки не может инициализироваться значением
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Conteiner.cpp(10,1): error C2011: Conteiner: переопределение типа "class"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Conteiner.h(2,7):
+   см. объявление "Conteiner"
+  
+  lab_0.cpp
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Conteiner.h(8,6): error C3646: getBoxes: неизвестный спецификатор переопределения
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Conteiner.h(8,14): error C2059: синтаксическая ошибка: (
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Conteiner.h(8,16): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Conteiner.h(9,6): error C3646: getBox: неизвестный спецификатор переопределения
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Conteiner.h(9,12): error C2059: синтаксическая ошибка: (
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Conteiner.h(9,20): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,10): error C2473: operator <<: выглядит как определение функции, но без списка параметров.
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,30): error C2065: out: необъявленный идентификатор
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,40): error C2065: cn: необъявленный идентификатор
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,35): error C2275: "Box": ожидается выражение вместо типа
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,20): error C2440: инициализация: невозможно преобразовать "initializer list" в "int &"
+  (компиляция исходного файла "lab_0.cpp")
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,20):
+  Тип ссылки не может инициализироваться значением
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,10): error C2473: operator >>: выглядит как определение функции, но без списка параметров.
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,30): error C2065: in: необъявленный идентификатор
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,39): error C2065: b: необъявленный идентификатор
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,34): error C2275: "Box": ожидается выражение вместо типа
+  (компиляция исходного файла "lab_0.cpp")
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,20): error C2440: инициализация: невозможно преобразовать "initializer list" в "int &"
+  (компиляция исходного файла "lab_0.cpp")
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(17,20):
+  Тип ссылки не может инициализироваться значением
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\lab_0.cpp(19,2): error C2872: <<: неоднозначный символ
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\Box.h(16,10):
+  может быть "int &<<"
+  C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\lab_0.cpp(19,2):
+  или       "<<"
+  
+C:\Users\didi_\Documents\MyHeadache\c++\lab_0\lab_0\lab_0.cpp(19,58): error C1907: не удается восстановить после предыдущих ошибок; остановка компиляции
+  Создание кода...
